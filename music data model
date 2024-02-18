@@ -1,0 +1,2 @@
+we had created a made up data that consists of features age, gender, genre. we created a model that predicts the genre that him/her like based on the age and gender by utilising the madeup dataset we provided. 
+we had also calculated the accuracy of the model.
